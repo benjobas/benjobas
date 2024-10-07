@@ -3,8 +3,6 @@
 
 - 🌱 Aprendiendo **JavaScript & Typescript**
 
-- 👨‍💻 All of my projects are available at [benjobas.dev](benjobas.dev)
-
 - 📫 How to reach me **benjobas@gmail.com**
 
 - ⚡ Fun fact **Me encanta league of Legends**
